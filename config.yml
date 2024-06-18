@@ -1,0 +1,3 @@
+#主配置文件储存盘符（填一个字母即可）
+#配置后可在该盘的/ServerData/Essentials/找到
+mainconfigdisk: 'C'

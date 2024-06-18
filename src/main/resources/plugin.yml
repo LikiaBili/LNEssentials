@@ -1,0 +1,10 @@
+name: ServerEssentials
+version: '0.3Stable'
+main: likia.likianetwork.essentials.main
+api-version: 1.16
+authors: [ Likia ]
+commands:
+  pingmsc:
+    description: 'ping msc server'
+  redirect:
+    description: 'redirect player'
